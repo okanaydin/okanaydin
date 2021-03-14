@@ -3,7 +3,7 @@
 ![](https://github.com/okanaydin/readme/blob/main/banner.png)
 
 <!-- Tell me about yourself! -->
-I'm <b>Okan AYDIN</b>, an Android developer at <b> [CitizenMe](https://www.citizenme.com/) </b> based in :uk: <b>London, UK</b> , currently living in :tr: <b>Istanbul, Turkey </b> and working remotely. Besides programming, I contribute to the software industry as much as I can to produce content and organise events as a member of <b> [Google Developer Group Istanbul](https://gdgistanbul.com/)</b>.
+I'm <b>Okan AYDIN</b>, an Android developer at <b> [CitizenMe](https://www.citizenme.com/) </b> based in :uk: <b>London/UK</b> , currently living in :tr: <b>Istanbul/Turkey </b> and working remotely. Besides programming, I contribute to the software industry as much as I can to produce content and organise events as a member of <b> [Google Developer Group Istanbul](https://gdgistanbul.com/)</b>.
 
 ## 🚧 A Few Quick Facts
 <ul>
