@@ -3,7 +3,7 @@
 ![](https://github.com/okanaydin/readme/blob/main/banner.png)
 
 <!-- Tell me about yourself! -->
-<b>Okan AYDIN</b> is an Android developer at <b> [CitizenMe](https://www.citizenme.com/) </b> based in :uk: <b>London/UK</b>. He studied Mobile Technology at Okan University and Computer Science at Işık University. Besides programming, he contributes to the software industry as much as he can to produce content and organise events as a co-organiser of Google Developer Group Istanbul. <b> [Google Developer Group Istanbul](https://gdgistanbul.com/)</b>.
+<b>Okan AYDIN</b> is an Android developer at <b> [CitizenMe](https://www.citizenme.com/) </b> based in :uk: <b>London/UK</b>. He studied Mobile Technology at Okan University and Computer Science at Işık University. Besides programming, he contributes to the software industry as much as he can to produce content and organise events as a co-organiser of <b> [Google Developer Group Istanbul](https://gdgistanbul.com/)</b>.
 
 ## 🚧 A Few Quick Facts
 <ul>
