@@ -1,80 +1,33 @@
-<!-- Banner -->
+![Okan Aydın's GitHub profile banner](https://github.com/okanaydin/readme/blob/main/banner.png?raw=true)
 
-![](https://github.com/okanaydin/readme/blob/main/banner.png)
+# Hi, I'm Okan Aydın 👋
 
-<!-- Tell me about yourself! -->
-<b>Okan AYDIN</b> is an Android Engineer at <b> [Kin + Carta Europe](https://www.kinandcarta.com/en/) </b> based in :uk: <b>London/UK</b>. He studied Mobile Technology at Okan University and Computer Science at Işık University. Besides programming, he contributes to the software industry as much as he can to produce content and organise events as a co-organiser of <b> [Google Developer Group Istanbul](https://gdgistanbul.com/)</b>.
+I'm a **Senior Android Developer at [TurkNet](https://www.turk.net/)**, based in **Istanbul, Türkiye**. I build customer-facing features with Kotlin and Jetpack Compose and work on app reliability, analytics, and A/B testing.
 
-## 🚧 A Few Quick Facts
-<ul>
-<li>🔭  I’m currently improving my Android skill.</li>
-<li>🧐  Learning about Android Jetpack Compose</li>
-<li>📝  I regulary write articles on <a href="https://okanaydin.medium.com/">my blog</a>.</li>
-<li>💬  Ask me about <b>Android, Kotlin.</b></li>
-<li>😄  Pronouns: he/him </li>
-<li>🎉  Fun Fact: Big fun of Formula 1 🏎️ </li>
-</ul>
+I studied Mobile Technology at Okan University and Computer Science at Işık University. I write about Android on [Medium](https://okanaydin.medium.com/) and previously co-organized [GDG Istanbul](https://gdgistanbul.com/) events.
 
+- **Ask me about** Kotlin, Jetpack Compose, Coroutines & Flow, or Android architecture.
+- **Away from the keyboard** I'm a Formula 1 fan. 🏎️
+- **Pronouns** he/him
 
-<!-- Blogs -->
-## 🚀 My latest posts
-<ul>
- <!-- Android - View Binding -->
-  <li>
-    <a href="https://medium.com/gdg-istanbul/android-viewbinding-447dde582ca4">
-      <b>Android View Binding </b> </a> :tr: <br/>
-          <i> View binding is a feature that allows you to more easily write code that interacts with views.</i>
-  </li>
+## 📱 Independent apps
 
- <!-- What's new in Android 11 -->
-  <li>
-    <a href="https://medium.com/gdg-istanbul/android-geli%C5%9Ftiriciler-i%C3%A7in-android-11-5a961d8a8ca3">
-      <b>What's new in Android 11</b> </a> :tr: <br/>
-          <i> IME Animation, Conversations, Bubbles, Privacy, Wi-Fi Debugging, Autofill</i>
-  </li>
+- [**Cuey Teleprompter**](https://play.google.com/store/apps/details?id=com.penguenlabs.teleprompter) helps creators write and read scrolling scripts while recording videos.
+- [**ATRUM: Tattoo Design AI**](https://play.google.com/store/apps/details?id=com.penguenlabs.tattoogenerator) turns ideas into tattoo concepts across 21 styles.
 
+## ✍️ Selected articles
 
- <!-- How do we use Build Gradle with Kotlin DSL at CitizenMe ? -->
-  <li>
-    <a href="https://medium.com/citizenme/how-do-we-use-build-gradle-with-kotlin-dsl-at-citizenme-26ec62a9c689">
-      <b> How do we use Build Gradle with Kotlin DSL at CitizenMe ? </b> </a> :uk: <br/>
-          <i> Management Gradle files and use it with Kotlin DSL in your project. Create a new project and implement it step by step. </i>
-  </li>
+- [Mobil Uygulamalarda Sağdan Sola (RTL) Dünyası: Tasarım ve Mühendislik Rehberi](https://medium.com/turknettech/mobil-uygulamalarda-sa%C4%9Fdan-sola-rtl-d%C3%BCnyas%C4%B1-tasar%C4%B1m-ve-m%C3%BChendislik-rehberi-6c4bbc3e4c03) 🇹🇷
+- [Android View Binding](https://medium.com/gdg-istanbul/android-viewbinding-447dde582ca4) 🇹🇷
+- [Android Geliştiriciler için Android 11](https://medium.com/gdg-istanbul/android-geli%C5%9Ftiriciler-i%C3%A7in-android-11-5a961d8a8ca3) 🇹🇷
+- [How do we use Build Gradle with Kotlin DSL at CitizenMe?](https://medium.com/citizenme/how-do-we-use-build-gradle-with-kotlin-dsl-at-citizenme-26ec62a9c689) 🇬🇧
+- [How do we use Jetpack Navigation Component at CitizenMe?](https://medium.com/citizenme/how-do-we-use-jetpack-navigation-component-at-citizenme-e4624362c18a) 🇬🇧
+- [Android Geliştiriciler için Google I/O 2019](https://medium.com/gdg-istanbul/android-geli%C5%9Ftiriciler-i%C3%A7in-google-i-o-2019-c38c63f030cd) 🇹🇷
+- [How to organize a monthly event in GDG Istanbul?](https://medium.com/gdg-istanbul/how-to-organize-a-monthly-event-in-gdg-istanbul-80b43007fe01) 🇬🇧
 
- <!-- How do we use Jetpack Navigation Component at CitizenMe ? -->
-  <li>
-    <a href="https://medium.com/citizenme/how-do-we-use-jetpack-navigation-component-at-citizenme-e4624362c18a">
-      <b> How do we use Jetpack Navigation Component at CitizenMe ? </b> </a> :uk: <br/>
-          <i> Jetpack Navigation Component simplifies implementing navigation, while also helping you visualize your app’s navigation flow. </i>
-  </li>
+## 👋 Find me online
 
-
- <!-- Google I/O 2019 for Android Developers -->
-  <li>
-    <a href="https://medium.com/gdg-istanbul/android-geli%C5%9Ftiriciler-i%C3%A7in-google-i-o-2019-c38c63f030cd">
-      <b> Google I/O 2019 for Android Developers </b> </a> :tr: <br/>
-          <i> Gestural navigations, Dark theme, The new Q share sheet, Bubbles, Notification action, User privacy & security, Jetpack Compose, Kotlin First,                   CameraX, In-App updates </i>
-  </li>
-
-
- <!-- How to organize a monthly-event in GDG Istanbul? -->
-  <li>
-    <a href="https://medium.com/gdg-istanbul/how-to-organize-a-monthly-event-in-gdg-istanbul-80b43007fe01">
-      <b> How to organize a monthly-event in GDG Istanbul? </b> </a> :uk: <br/>
-          <i> How is the process of organizing a monthly-event in GDG Istanbul. </i>
-  </li>
-
-</ul>  
-
-<!-- GitHub Stats -->
-## 👨‍💻 My GitHub Stats
-
-![Okan's GitHub stats](https://github-readme-stats.vercel.app/api?username=okanaydin)
-
-<!-- Social Media accounts -->
-## 👀 How to reach me
-
-[<img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white"/>](https://github.com/okanaydin)
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/>](https://twitter.com/okanaydin34)
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/okanaydin34/)
-[<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white"/>](https://okanaydin.medium.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/okanaydin)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/okanaydin34)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/okanaydin34/)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://okanaydin.medium.com/)
