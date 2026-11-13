@@ -12,7 +12,7 @@ I studied Mobile Technology at Okan University and Computer Science at Işık Un
 
 ## 📱 Independent apps
 
-- [**Cuey Teleprompter**](https://play.google.com/store/apps/details?id=com.penguenlabs.teleprompter) helps creators write and read scrolling scripts while recording videos.
+- [**Cuey Teleprompter**](https://play.google.com/store/apps/details?id=com.cuey.teleprompter) helps creators write and read scrolling scripts while recording videos.
 - [**ATRUM: Tattoo Design AI**](https://play.google.com/store/apps/details?id=com.penguenlabs.tattoogenerator) turns ideas into tattoo concepts across 21 styles.
 
 ## ✍️ Selected articles
